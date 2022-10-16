@@ -1,4 +1,4 @@
-Guess My Number is a simple game
+# Guess My Number
 
 How to play? Is very easy you just guess the number between 1 until 20.
 
